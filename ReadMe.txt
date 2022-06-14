@@ -2,3 +2,5 @@
 随后使用Divide.ipynb将图片划分为训练集和数据集
 之后使用Train&Save.ipynb进行模型训练，保存在验证集中表现效果较好的模型
 最后使用Test.ipynb进行测试集验证
+
+使用Label.ipynb聚类出标签后使用U-Net训练
