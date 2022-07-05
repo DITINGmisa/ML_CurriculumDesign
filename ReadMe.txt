@@ -1,5 +1,5 @@
 首先将原始数据集中的cloud，cloudy和sun的图片手动放入DataSet文件夹的对应目录下
-随后使用Divide.ipynb将图片划分为训练集和数据集
+随后使用Divide.ipynb将图片划分为训练集和测试集
 之后使用Train&Save.ipynb进行模型训练，保存在验证集中表现效果较好的模型
 最后使用Test.ipynb进行测试集验证
 
